@@ -1,0 +1,11 @@
+Cargo,Nivel,Salario
+Trainee,1,45000
+Analista Junior,2,50000
+Analista Sênior,3,60000
+Consultor Junior,4,80000
+Consultor Sênior,5,150000
+Gerente,6,110000
+Gerente Regional,7,200000
+Gerente Nacional,8,300000
+Sócio,9,500000
+Presidente,10,1000000

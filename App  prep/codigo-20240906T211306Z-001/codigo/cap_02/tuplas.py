@@ -1,0 +1,6 @@
+tupla_inteiros = (1, 2, 3)
+print(f'Criando uma tupla de inteiros: {tupla_inteiros}')
+tupla_strings = ('A', 'B', 'C')
+print(f'Criando uma tupla de strings: {tupla_strings}')
+tupla_booleanos = (False, True)
+print(f'Criando uma tupla de booleanos: {tupla_booleanos}')
